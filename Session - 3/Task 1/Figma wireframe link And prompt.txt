@@ -1,0 +1,22 @@
+-------------------------------   Prompt   ---------------------------------
+
+Create a clean grayscale wireframe for a mobile Music Playlist Manager homepage.
+
+Include:
+• Top navigation bar with app logo and profile icon
+• Search bar
+• Featured playlist banner
+• Recently Played section
+• Your Playlists section with cards
+• Recommended Songs section
+• Bottom navigation with Home, Search, Library and Profile
+
+Use simple rectangles, placeholders and labels only. Keep the design minimal and suitable for mobile devices.
+
+
+
+
+-------------------------------   Wireframe Link   ---------------------------------
+
+
+https://www.figma.com/make/109FsCEyMcKzO2i7OKan0L/Mobile-Music-Playlist-Manager?t=1jmUJdRXjgXxb8k4-1

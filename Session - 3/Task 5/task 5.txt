@@ -1,0 +1,26 @@
+Task 5
+Design-to-Code Workflow
+
+Step 1
+
+Generate the initial UI wireframe using Figma AI based on the project requirements.
+
+Step 2
+
+Review the design with the designer and finalize spacing, colors, typography, and components.
+
+Step 3
+
+Inspect the Figma design using Developer Mode to obtain measurements, colors, and assets.
+
+Step 4
+
+Export icons and images from Figma.
+
+Step 5
+
+Use the Figma to Code plugin to generate the initial HTML and CSS.
+
+Step 6
+
+Clean and optimize the generated code, then test responsiveness across different devices.

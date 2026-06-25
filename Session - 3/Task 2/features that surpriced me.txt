@@ -1,0 +1,3 @@
+Feature that surprised me
+
+The AI automatically created a complete homepage with restaurant cards, food categories, promotional banners, and navigation without requiring manual placement of UI elements.
